@@ -1,25 +1,13 @@
 ---
-title: Welcome
+title: 开始入门
 ---
 
-This is the **Edition** template from [CloudCannon](http://cloudcannon.com/).
-**Edition** is perfect for documenting your product, application or service.
-It's populated with example content to give you some ideas.
+本文档记录了 **小安智能中控** 产品详细功能以及使用方法。
+>[访问小安智能科技官方主页](https://www.xiaoantech.com/)
 
-ChatApp is a fictional chat application for sending messages and media to others.
-Teams and friend groups would use ChatApp to stay up to date if it existed.
+# 概述
 
-> [Sign up](http://example.com/signup) or learn more about ChatApp at [example.com](http://example.com/).
-
-### Getting Started
-
-Getting a message sent is quick and easy with ChatApp:
-
-1. Sign up for an account
-2. Add your friends from their email addresses
-3. Type a message or send a photo
-
-> Feel free to send us a message at [feedback@example.com](mailto:feedback@example.com) with your feedback.
+本系列文档介绍了如何认识并开始使用智能中控。
 
 ### Features
 
