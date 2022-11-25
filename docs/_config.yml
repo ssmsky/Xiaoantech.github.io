@@ -1,6 +1,6 @@
-title: Your project name
-lang: en
-description: a catchy description for your project
+title: 小安智能中控文档
+lang: ch
+description: 介绍小安智能中控产品功能和使用方法。
 
 remote_theme: rundocs/jekyll-rtd-theme
 
