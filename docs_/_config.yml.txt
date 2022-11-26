@@ -1,0 +1,14 @@
+title: 小安智能中控文档
+lang: ch
+description: 记录小安智能中控产品功能和使用说明。
+
+remote_theme: rundocs/jekyll-rtd-theme
+
+readme_index:
+  with_frontmatter: true
+
+exclude:
+  - Makefile
+  - CNAME
+  - Gemfile
+  - Gemfile.lock
